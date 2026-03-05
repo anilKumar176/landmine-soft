@@ -29,7 +29,7 @@ function About() {
               Our Mission
             </h2>
 
-            <p className="mt-4 text-gray-600">
+            <p className="mt-3 text-gray-600">
               Our mission is to empower businesses with modern software
               solutions that improve efficiency, scalability, and user
               experience.
